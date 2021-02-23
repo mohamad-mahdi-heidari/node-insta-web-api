@@ -1,7 +1,7 @@
 node_modules
 test.js
 blackhat.png
-Cookies.json
+utils/cookies.json
 test.mp4
 state.json
 insta_mqtt.js
